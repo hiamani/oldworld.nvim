@@ -18,6 +18,7 @@ return {
     ["@namespace"] = { fg = p.red, italic = true },
     ["@parameter"] = { fg = p.fg },
     ["@property"] = { fg = p.fg },
+    ["@property.json"] = { fg = p.purple },
     ["@punctuation"] = { fg = p.subtext1 },
     ["@punctuation.delimiter"] = { fg = p.subtext1 },
     ["@punctuation.bracket"] = { fg = p.subtext3 },
